@@ -15,6 +15,8 @@ if (! defined('WPINC')) {
 	exit;
 }
 
+global $table_prefix;
+
 //https://www.wordfence.com/help/firewall/mysqli-storage-engine/
 define('WFWAF_STORAGE_ENGINE', 'mysqli');
 define('WFWAF_DB_NAME', constant('DB_NAME'));
