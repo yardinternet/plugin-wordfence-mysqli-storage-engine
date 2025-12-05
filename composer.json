@@ -1,7 +1,7 @@
 {
     "name": "yard/wordfence-mysqli-storage-engine",
     "type": "wordpress-muplugin",
-    "license": "MIT",
+    "license": "EUPL-1.2",
     "description":
       "Fixes WordPress issues with home and site URL on multisite when using Bedrock",
     "keywords": ["wordpress"],
