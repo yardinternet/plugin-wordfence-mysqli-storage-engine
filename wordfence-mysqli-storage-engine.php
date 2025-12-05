@@ -9,7 +9,7 @@ declare(strict_types=1);
  * Author: Yard | Digital Agency
  * Author URI: https://www.yard.nl
  * Version: 1.0.0
- * License: MIT License
+ * License: EUPL-1.2
  */
 if (! defined('WPINC')) {
 	exit;
